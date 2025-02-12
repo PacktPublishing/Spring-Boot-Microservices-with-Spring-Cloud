@@ -1,1 +1,8 @@
-# Spring-Boot-Microservices-with-Spring-Cloud
+# Spring Boot Microservices with Spring Cloud!
+
+This is the code repository for **Spring Boot Microservices with Spring Cloud!**, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+
+## About this course
+This course starts with the fundamentals of microservices, comparing them with monolithic architectures and addressing their pros and cons. You will set up your development environment, build a "Hello World" microservice, and understand key Spring Boot features. Then, you will explore REST Template, WebClient, and reactive programming with WebFlux to enable efficient service communication.
+Next, you will build a fully functional microservices application, implementing services for products, pricing, and inventory. You will integrate service discovery with Eureka, use Netflix Ribbon for load balancing, and configure API gateways for seamless communication. The course covers resilience patterns, including circuit breakers with Resilience4j, retries, and centralized configuration using Spring Cloud Config Server.
+Finally, you will learn advanced production-ready techniques such as distributed tracing with Zipkin, log aggregation with the ELK stack, and event-driven microservices using Spring Cloud Bus. By the end, you will have hands-on experience in building robust, scalable, and highly available microservices using industry-best practices.
